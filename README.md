@@ -9,9 +9,9 @@
 ░▒▓███████▓▒░ ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓██████▓▒░ ░▒▓████████▓▒░░▒▓███████▓▒░  ░▒▓██████▓▒░   ░▒▓█▓▒░
 ```
 
-# 🤖 Discord Sage-Bot (Bahasa Indonesia, Dialek Palu)
+# 🤖 Discord Sage-Bot (Bahasa Indonesia, dengan sedikit Dialek Palu)
 
-Bot Discord cerdas buatan sendiri yang bisa cek cuaca, gempa, jadwal sholat, dan lainnya. Didesain dengan gaya bahasa khas Sulawesi Tengah (Palu), spesial untuk server Sage E-Sprott.
+Bot Discord cerdas buatan sendiri yang bisa cek cuaca, gempa, jadwal sholat, dan lainnya. Didesain dengan sedikit gaya bahasa khas Palu, spesial untuk server Sage E-Sprott.
 
 > Mind you, this Bot is still in development (I developed this Bot in just 2 days 😆) — so there's more commands to be utilized soon!
 
