@@ -26,7 +26,7 @@ Bot Discord cerdas buatan sendiri yang bisa cek cuaca, gempa, jadwal sholat, dan
 | `/jadwalsholat`  | Tampilkan jadwal sholat dari wilayah yang dipilih                      |
 | `/namalist`      | Lihat dan kelola nama asli pengguna untuk sapaan personal              |
 | `/setname`       | Simpan nama aslimu di bot supaya lebih akrab                           |
-| `/cekjodoh`      | Cocokin dua nama buat lihat presentase kecocokan                       |
+| `/cekjodoh`      | Cocokkan dua nama buat lihat presentase kecocokan                      |
 | `/serverinfo`    | Info lengkap tentang server Discord saat ini                           |
 
 ---
