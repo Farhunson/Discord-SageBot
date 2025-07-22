@@ -84,5 +84,3 @@ git commit -m "Remove .env"
 ```
 
 ---
-
-Kalau kamu mau tambahin badge GitHub, contoh hasil, atau dokumentasi lebih lanjut per command, tinggal bilang aja!
